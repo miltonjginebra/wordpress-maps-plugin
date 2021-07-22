@@ -1,0 +1,9 @@
+input[type="checkbox"] {
+  background-repeat: no-repeat;
+  margin: 0 !important;
+  margin-top: 0.65% !important;
+}
+
+input[type="checkbox"]:before {
+  display: none !important;
+}
